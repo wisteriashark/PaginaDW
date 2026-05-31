@@ -1,0 +1,26 @@
+{
+    padding; 0;
+    margin; 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("../Imagen/wallpaper.jpg");
+}
+.contenedor{
+    width: 80%;
+    background: #abd2fa;
+    margin: auto;
+}
+header{
+    height: 400px;
+    background-image: url("../Imagen/wa.jpg");
+    background-position: center;
+    background-size: cover; 
+}
+main{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #abd2fa;
+    padding: 20px 30px;
+}

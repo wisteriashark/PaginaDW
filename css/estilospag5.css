@@ -1,0 +1,177 @@
+{
+    padding; 0;
+    margin; 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("../Imagen/wallpaper.jpg");
+}
+.contenedor{
+    width: 80%;
+    background: #abd2fa;
+    margin: auto;
+    overflow: auto;
+}
+header{
+    height: 400px;
+    background-image: url("../Imagen/wa.jpg");
+    background-position: center;
+    background-size: cover; 
+}
+.cajas-contenedor{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Caja1{
+    width: 23%;
+    height: 420px;
+    border: 2px solid #03071e;
+    padding: 20px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+}
+.imagen{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border: 2px solid #03071e;
+}
+h3{
+    margin-top: 10px
+}
+p{
+    font-size: 14px;
+    color: #555;
+}
+.Caja2{
+    width: 23%;
+    height: 420px;
+    border: 2px solid #03071e;
+    padding: 20px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+}
+.Caja3{
+    width: 23%;
+    height: 420px;
+    border: 2px solid #03071e;
+    padding: 20px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+}
+.Caja4{
+    width: 23%;
+    height: 420px;
+    border: 2px solid #03071e;
+    padding: 20px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+}
+.Caja5{
+    width: 23%;
+    height: 420px;
+    border: 2px solid #03071e;
+    padding: 20px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+}
+.Caja6{
+    width: 23%;
+    height: 420px;
+    border: 2px solid #03071e;
+    padding: 20px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+}
+.Caja7{
+    width: 23%;
+    height: 420px;
+    border: 2px solid #03071e;
+    padding: 20px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+}
+.Caja8{
+    width: 23%;
+    height: 420px;
+    border: 2px solid #03071e;
+    padding: 20px;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+}
+.Caja9{
+        width: 23%;
+        height: 420px;
+        border: 2px solid #03071e;
+        padding: 20px;
+        margin: 10px;
+        background-size: cover;
+        background-position: center;
+        text-align: center;
+        float: none;
+        display: inline-block;
+        vertical-align: top;
+}
+.Caja10{
+        width: 23%;
+        height: 420px;
+        border: 2px solid #03071e;
+        padding: 20px;
+        margin: 10px;
+        background-size: cover;
+        background-position: center;
+        text-align: center;
+        float: none;
+        display: inline-block;
+        vertical-align: top;
+}
+main{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #abd2fa;
+    padding: 20px 30px;
+    overflow: hidden;
+}
